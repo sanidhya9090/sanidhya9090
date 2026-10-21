@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & Analytics learner | Python | Robotics enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Turning+data+into+insights;Python+%7C+Jupyter+%7C+Data+Analysis;Building+robots+that+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Turning+data+into+insights;Python+%7C+Jupyter+%7C+Data+Analysis+%7C+Machine+Learning+%7C+Streamlit+&+Flask;Building+robots+that+solve+real+problems" alt="Typing SVG" />
 </p>
 
 <p align="center">

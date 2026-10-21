@@ -70,4 +70,4 @@ Leave a message! Click the button, write your note in the issue body, and submit
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhya-prajapati-58767132a/?isSelfProfile=true)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](sanidhyaprajapati213@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sanidhyaprajapati213@gmail.com)
